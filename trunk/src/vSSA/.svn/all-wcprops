@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/342/trunk/src/vSSA
+END
+vSSA.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/342/trunk/src/vSSA/vSSA.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/317/trunk/src/vSSA/Makefile
+END
+vSSA.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/342/trunk/src/vSSA/vSSA.h
+END

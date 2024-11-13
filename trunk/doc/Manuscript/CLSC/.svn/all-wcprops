@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/263/trunk/doc/Manuscript/CLSC
+END
+paper.spl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/paper.spl
+END
+elsarticle.cls
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/260/trunk/doc/Manuscript/CLSC/elsarticle.cls
+END
+elsarticle-num-names.bst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/elsarticle-num-names.bst
+END
+elsdoc.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/elsdoc.pdf
+END
+paper.log
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/263/trunk/doc/Manuscript/CLSC/paper.log
+END
+mathpartir.sty
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/mathpartir.sty
+END
+elsarticle-template-1a-num.tex
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/elsarticle-template-1a-num.tex
+END
+elsarticle-template-1b-num.tex
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/elsarticle-template-1b-num.tex
+END
+elsarticle-template-3a-num.tex
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/elsarticle-template-3a-num.tex
+END
+elsarticle-template-harv.tex
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/elsarticle-template-harv.tex
+END
+elsarticle-template-1c-num.tex
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/elsarticle-template-1c-num.tex
+END
+elsarticle-template-5-harv.tex
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/elsarticle-template-5-harv.tex
+END
+paper.aux
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/263/trunk/doc/Manuscript/CLSC/paper.aux
+END
+paper.bbl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/paper.bbl
+END
+paper.tex
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/263/trunk/doc/Manuscript/CLSC/paper.tex
+END
+model1-num-names.bst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/model1-num-names.bst
+END
+model1a-num-names.bst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/model1a-num-names.bst
+END
+model1b-num-names.bst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/model1b-num-names.bst
+END
+model3-num-names.bst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/model3-num-names.bst
+END
+model3a-num-names.bst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/model3a-num-names.bst
+END
+model1c-num-names.bst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/model1c-num-names.bst
+END
+model2-names.bst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/model2-names.bst
+END
+paper.blg
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/260/trunk/doc/Manuscript/CLSC/paper.blg
+END
+elsarticle-num.bst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/elsarticle-num.bst
+END
+model6-num-names.bst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/model6-num-names.bst
+END
+model4-names.bst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/model4-names.bst
+END
+elsarticle-harv.bst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/elsarticle-harv.bst
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/Makefile
+END
+model5-names.bst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/model5-names.bst
+END
+paper.out
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/218/trunk/doc/Manuscript/CLSC/paper.out
+END
+paper.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/263/trunk/doc/Manuscript/CLSC/paper.pdf
+END
+numcompress.sty
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/numcompress.sty
+END
+elsarticle-template-1-num.tex
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/elsarticle-template-1-num.tex
+END
+elsarticle-template-2-harv.tex
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/elsarticle-template-2-harv.tex
+END
+elsarticle-template-3-num.tex
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/elsarticle-template-3-num.tex
+END
+elsarticle-template-num.tex
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/elsarticle-template-num.tex
+END
+elsarticle-template-4-harv.tex
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/elsarticle-template-4-harv.tex
+END
+elsarticle-template-6-num.tex
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/216/trunk/doc/Manuscript/CLSC/elsarticle-template-6-num.tex
+END

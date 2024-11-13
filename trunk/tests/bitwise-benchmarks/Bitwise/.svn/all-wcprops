@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/121/trunk/tests/bitwise-benchmarks/Bitwise
+END
+bilint.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/121/trunk/tests/bitwise-benchmarks/Bitwise/bilint.c
+END
+adpcm.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/121/trunk/tests/bitwise-benchmarks/Bitwise/adpcm.c
+END
+jacobi.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/121/trunk/tests/bitwise-benchmarks/Bitwise/jacobi.c
+END
+newlife.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/121/trunk/tests/bitwise-benchmarks/Bitwise/newlife.c
+END
+milieu.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/121/trunk/tests/bitwise-benchmarks/Bitwise/milieu.h
+END
+convolve.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/121/trunk/tests/bitwise-benchmarks/Bitwise/convolve.c
+END
+edge_detect.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/121/trunk/tests/bitwise-benchmarks/Bitwise/edge_detect.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/121/trunk/tests/bitwise-benchmarks/Bitwise/Makefile
+END
+histogram.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/121/trunk/tests/bitwise-benchmarks/Bitwise/histogram.c
+END
+median.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/121/trunk/tests/bitwise-benchmarks/Bitwise/median.c
+END
+Makefile.bitwise
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/121/trunk/tests/bitwise-benchmarks/Bitwise/Makefile.bitwise
+END
+levdurb.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/121/trunk/tests/bitwise-benchmarks/Bitwise/levdurb.c
+END
+bubblesort.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/121/trunk/tests/bitwise-benchmarks/Bitwise/bubblesort.c
+END
+motiontest.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/121/trunk/tests/bitwise-benchmarks/Bitwise/motiontest.c
+END
+sha.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/121/trunk/tests/bitwise-benchmarks/Bitwise/sha.c
+END
+mpegcorr.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/121/trunk/tests/bitwise-benchmarks/Bitwise/mpegcorr.c
+END
+life.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/121/trunk/tests/bitwise-benchmarks/Bitwise/life.c
+END
